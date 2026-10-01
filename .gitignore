@@ -1,0 +1,14 @@
+
+
+# Local configuration and generated dependencies
+.env
+.env.*
+!.env.example
+/vendor/
+/node_modules/
+/.next/
+/logs/
+*.log
+wp-config.php
+*.sql
+*.sqlite
